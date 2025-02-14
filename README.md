@@ -1,3 +1,7 @@
+## Установка XAMPP
+
+1. Скачайте и установите [XAMPP](https://www.apachefriends.org/ru/index.html).
+2. Запустите XAMPP и активируйте модули **Apache** и **MySQL**.
 
 ## Установка базы данных
 
